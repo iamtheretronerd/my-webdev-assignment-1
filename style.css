@@ -16,7 +16,6 @@ body {
   border-bottom: 1px solid #e5e7eb;
 }
 
-/* I'm adding the below 2 styles to remove the bullet styles while maintaining the benifits of lists =) */
 .navbar ul {
   list-style: none;
   margin: 0;
